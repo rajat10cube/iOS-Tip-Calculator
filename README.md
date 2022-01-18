@@ -30,7 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/rajat10cube/iOS-Tip-Calculator/blob/main/ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
